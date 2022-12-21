@@ -1,9 +1,9 @@
-import './App.css'
+import './App.css';
 
 function App() {
   return (
-    <div className="App">
-        Subscribe Zainkeepscode
+    <div className='App'>
+      <div className='AppGlass'></div>
     </div>
   );
 }
